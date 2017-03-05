@@ -1,3 +1,5 @@
+link to prototype: https://kurogo.umsl.edu/umslhack/_/tritonlife
+
 Problem statement:
 Increase the sense of community and improve the UMSL app experience.
 
